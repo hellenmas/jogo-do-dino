@@ -8,4 +8,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 💻️Javascript 💻️Visual Studio Code
 
-## Feito com ❤️ por hellenmassolin 👋️
+## Feito com ❤️ por hellenm
